@@ -21,3 +21,7 @@ Raw data &#8594; **Power Query** &#8594; **Power Pivot** &#8594;  Power BI
 
 
 
+### References
+[Learnit Training](https://www.youtube.com/watch?v=ppD-jKqsqKM)
+
+[simplilearn](https://www.youtube.com/watch?v=j5RAHGfKaBc)
